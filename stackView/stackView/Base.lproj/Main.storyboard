@@ -103,11 +103,6 @@
                             <constraint firstAttribute="trailing" secondItem="Iod-VB-bny" secondAttribute="trailing" constant="10" id="xEV-t0-hOU"/>
                         </constraints>
                     </view>
-                    <connections>
-                        <outlet property="imageView1" destination="0ge-r4-IlF" id="fo8-6j-gxv"/>
-                        <outlet property="imageView2" destination="IVs-X4-3aJ" id="tLU-c9-GyQ"/>
-                        <outlet property="imageView3" destination="Xvw-te-lcl" id="AAC-Oj-ZML"/>
-                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
